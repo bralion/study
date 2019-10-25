@@ -1,0 +1,8 @@
+{
+    "name": "head",
+    "version": "0.0.1",
+    "main":"./head.js",
+    "dependencies": {
+
+    }
+}
